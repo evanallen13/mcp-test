@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "evan-mcp": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
